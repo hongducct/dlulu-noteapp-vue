@@ -14,9 +14,12 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.14",
     "vue": "^3.5.22",
-    "vue-router": "^4.6.3"
+    "vue-i18n": "^11.1.12",
+    "vue-router": "^4.6.3",
+    "vuetify": "^3.10.5"
   },
   "devDependencies": {
+    "@mdi/font": "^7.4.47",
     "@vitejs/plugin-vue": "^6.0.1",
     "autoprefixer": "^10.4.21",
     "postcss": "^8.5.6",

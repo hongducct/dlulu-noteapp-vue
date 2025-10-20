@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "DluluNote",
+    "subtitle": "Under Development - Coming Soon!",
+    "description": "Smart Notes & Todo App",
+    "subDescription": "Manage tasks, notes and lunar calendar easily and efficiently"
+  },
+  "navigation": {
+    "tryNow": "Try Now",
+    "viewFeatures": "View Features",
+    "viewCalendar": "View Calendar",
+    "startNow": "Start Now",
+    "contact": "Contact",
+    "back": "Back",
+    "cancel": "Cancel"
+  },
+  "features": {
+    "title": "Key Features",
+    "subtitle": "Features that help you manage work efficiently",
+    "smartNotes": {
+      "title": "Smart Notes",
+      "description": "Manage notes with different types: text, gas refill, trash day, bills, reminders"
+    },
+    "todoList": {
+      "title": "Todo List",
+      "description": "Create and manage todo lists with priorities and deadlines"
+    },
+    "lunarCalendar": {
+      "title": "Lunar Calendar",
+      "description": "View Vietnamese lunar calendar and manage tasks by lunar dates"
+    },
+    "teamwork": {
+      "title": "Teamwork",
+      "description": "Create teams and share work with colleagues"
+    },
+    "reminders": {
+      "title": "Reminders",
+      "description": "Set reminders for important tasks"
+    },
+    "statistics": {
+      "title": "Statistics",
+      "description": "Track progress and work performance"
+    }
+  },
+  "calendar": {
+    "title": "Smart Lunar Calendar",
+    "subtitle": "View lunar calendar and manage tasks by date"
+  },
+  "cta": {
+    "title": "Ready to experience?",
+    "subtitle": "Try the demo now to explore all features"
+  },
+  "demo": {
+    "title": "DluluNote Demo",
+    "sampleNote": "Sample Note",
+    "sampleNoteContent": "This is sample note content for demo...",
+    "sampleTodo": "Complete project"
+  },
+  "countdown": {
+    "daysLeft": "days left",
+    "hoursLeft": "hours left",
+    "minutesLeft": "minutes left",
+    "comingSoon": "Coming Soon!"
+  },
+  "footer": {
+    "copyright": "© 2024 DluluNote. All rights reserved."
+  },
+  "login": {
+    "title": "Login to Continue",
+    "subtitle": "Login to access full features of DluluNote",
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "confirmPassword": "Confirm Password"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "DluluNote",
+    "subtitle": "Đang phát triển - Sắp ra mắt!",
+    "description": "Ứng dụng ghi chú & todo thông minh",
+    "subDescription": "Quản lý công việc, ghi chú và lịch âm một cách dễ dàng và hiệu quả"
+  },
+  "navigation": {
+    "tryNow": "Thử ngay",
+    "viewFeatures": "Xem tính năng",
+    "viewCalendar": "Xem lịch âm",
+    "startNow": "Bắt đầu ngay",
+    "contact": "Liên hệ",
+    "back": "Quay lại",
+    "cancel": "Hủy"
+  },
+  "features": {
+    "title": "Tính năng nổi bật",
+    "subtitle": "Những tính năng giúp bạn quản lý công việc hiệu quả",
+    "smartNotes": {
+      "title": "Ghi Chú Thông Minh",
+      "description": "Quản lý ghi chú với nhiều loại khác nhau: văn bản, đổ xăng, đổ rác, hóa đơn, nhắc nhở"
+    },
+    "todoList": {
+      "title": "Todo List",
+      "description": "Tạo và quản lý danh sách việc cần làm với độ ưu tiên và deadline"
+    },
+    "lunarCalendar": {
+      "title": "Lịch Âm",
+      "description": "Xem lịch âm Việt Nam và quản lý công việc theo ngày âm lịch"
+    },
+    "teamwork": {
+      "title": "Làm Việc Nhóm",
+      "description": "Tạo team và chia sẻ công việc với đồng nghiệp"
+    },
+    "reminders": {
+      "title": "Nhắc Nhở",
+      "description": "Thiết lập nhắc nhở cho các công việc quan trọng"
+    },
+    "statistics": {
+      "title": "Thống Kê",
+      "description": "Theo dõi tiến độ và hiệu suất làm việc"
+    }
+  },
+  "calendar": {
+    "title": "Lịch âm thông minh",
+    "subtitle": "Xem lịch âm và quản lý công việc theo ngày"
+  },
+  "cta": {
+    "title": "Sẵn sàng trải nghiệm?",
+    "subtitle": "Thử ngay bản demo để khám phá tất cả tính năng"
+  },
+  "demo": {
+    "title": "DluluNote Demo",
+    "sampleNote": "Ghi chú mẫu",
+    "sampleNoteContent": "Đây là nội dung ghi chú mẫu để demo...",
+    "sampleTodo": "Hoàn thành dự án"
+  },
+  "countdown": {
+    "daysLeft": "ngày còn lại",
+    "hoursLeft": "giờ còn lại",
+    "minutesLeft": "phút còn lại",
+    "comingSoon": "Sắp ra mắt!"
+  },
+  "footer": {
+    "copyright": "© 2024 DluluNote. Tất cả quyền được bảo lưu."
+  },
+  "login": {
+    "title": "Đăng nhập để tiếp tục",
+    "subtitle": "Đăng nhập để truy cập đầy đủ tính năng của DluluNote",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "forgotPassword": "Quên mật khẩu?",
+    "noAccount": "Chưa có tài khoản?",
+    "hasAccount": "Đã có tài khoản?",
+    "confirmPassword": "Xác nhận mật khẩu"
+  }
+}
